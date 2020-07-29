@@ -11,6 +11,5 @@ return [
     'debug' => true,
     'panel' =>[
       'install' => true
-      'slug' => 'turoborus-admin'
     ]
 ];
